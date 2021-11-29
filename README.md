@@ -1,2 +1,2 @@
 # php-functional-testing
-PHP 7.4 cli with mysql + pcov
+PHP 8.0.11 cli with mysql + pcov
