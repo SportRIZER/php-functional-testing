@@ -1,4 +1,4 @@
-FROM php:7.4-cli
+FROM php:8.0.11-cli
 RUN apt-get update \
     && apt-get install  -y --no-install-recommends ssh-client git zip curl zip unzip \
     && pecl install pcov \
